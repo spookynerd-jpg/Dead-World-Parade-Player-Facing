@@ -62,9 +62,4 @@ Cosmic Blooded: Whenever an attack deals damage to you, you may Ignite to create
 
 **Level Up: Fully Degrade Someone or Fully Clear a Map Without Leaving Flame Behind.**
 
-## Mic Bond \[ONCE BURNED, RECOVERED\]
 
-*???*  
-*You still haven’t quantified what this means, but you don’t **need** to to know that something precious has been lost.*
-
-*Find Her.*  
