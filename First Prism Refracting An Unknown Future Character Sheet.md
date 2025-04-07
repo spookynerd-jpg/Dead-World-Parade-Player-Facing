@@ -5,12 +5,6 @@
 *Class*  
 Class Swap: This gift has four sub-gifts. You may only have one of such gifts active at a time. You can choose which “stance” you take any time you Rest.
 
-### A Hammer that Smashes Through Deceit
-
-Greathammer: Your attacks get \-1d6 Accuracy, but deal \+1d6 Damage.  
-Fire Affinity: Whenever you Ignite Sulphur to Push an Attack, Gain an additional Fire Vial.  
-Enchanted Crush: \[2 Vials\]
-
 ### A Shield Standing Strong Against the Abyss
 
 Greatshield: You block 2d3 instead of 1d6  
