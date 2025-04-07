@@ -18,8 +18,6 @@ Automatic Deactivation Protocol: Your armor has a failsafe that will depower you
 
 Secret Power Unleashed\! Deus Ex Machina Overdrive: \[1/Session\] \[Action\] A true hero is prepared for every possible eventuality. Reveal a weapon or ability you’ve had prepared all along for just this occassion, describing in loose terms its function and form. The revealed power becomes a Gift added to your character sheet. Revealed Power Gifts are lost on death, but may be retrieved from your \[Bloodstain\] to immediately re-equip them. Take note, however, that these gifts are both fairly small and highly simplistic, and this ability requires an open gift slot to use. 
 
-My Lie: Under no circumstances can this ability be shared with other players before it is revealed. {INSERT TRIGGER CONDITIONS}, the power within your suit consumes your being, causing you to go Berserk. While Berserk, you lose control of the suit entirely, with all motives superceded by one central drive: Kill the target you last attacked. When this target dies, your target switches to a new creature on the current map. You gain an additional Black \+9 Attribute, and all your attributes always clash (yes, even then.) This continues until there are no targets on the current map or until it can be deactivated by forcing your armor to retract. 
-
 ## Our Powers Combined
 
 *Trope*
